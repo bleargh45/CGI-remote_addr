@@ -1,4 +1,7 @@
 Revision history for Perl extension CGI::remote_addr
 
+0.02    ???
+    - Switch to Git
+
 0.01    Thu Mar  6 13:33 PST 2008
     - initial version

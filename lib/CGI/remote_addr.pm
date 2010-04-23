@@ -5,7 +5,7 @@ use warnings;
 use Regexp::Common qw(net);
 use List::MoreUtils qw(uniq);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub remote_addr {
     my @ips;
