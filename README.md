@@ -41,7 +41,7 @@ all of the IPs that the connection was received through.
 
 # METHODS
 
-- **remote\_addr()**
+- remote\_addr()
 
     Returns the IP address(es) of the remote host.
 

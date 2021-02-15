@@ -93,7 +93,7 @@ C<undef>, B<NOT> 127.0.0.1 (like C<CGI.pm> does).
 
 =over
 
-=item B<remote_addr()>
+=item remote_addr()
 
 Returns the IP address(es) of the remote host.
 
