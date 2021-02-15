@@ -5,6 +5,7 @@ Revision history for Perl extension CGI::remote_addr
     - POD fixups; SYNOPSIS
     - update test to use proper subtests
     - move to GitHub
+    - use namespace::clean to keep our namespace clean
 
 0.02    Fri Apr 23 22:27 PDT 2010
     - Switch to Git

@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use Regexp::Common qw(net);
 use List::MoreUtils qw(uniq);
+use namespace::clean;
 
 our $VERSION = '0.03';
 
