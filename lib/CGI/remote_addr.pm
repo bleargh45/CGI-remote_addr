@@ -6,7 +6,7 @@ use Regexp::Common qw(net);
 use List::MoreUtils qw(uniq);
 use namespace::clean;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 sub remote_addr {
     my @ips;
