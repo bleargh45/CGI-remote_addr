@@ -58,4 +58,4 @@ the same terms as Perl itself.
 
 # SEE ALSO
 
-[CGI](https://metacpan.org/pod/CGI).
+- [CGI](https://metacpan.org/pod/CGI)
