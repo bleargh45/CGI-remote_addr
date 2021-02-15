@@ -42,9 +42,9 @@ CGI::remote_addr - Enhanced version of CGI.pm's "remote_addr()"
 
   use CGI;
   use CGI::remote_addr;
-  ...
-  $cgi = CGI->new();
-  $addr = $cgi->remote_addr();
+
+  my $cgi  = CGI->new();
+  my $addr = $cgi->remote_addr();
 
 =head1 DESCRIPTION
 

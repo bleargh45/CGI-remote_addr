@@ -7,9 +7,9 @@ CGI::remote\_addr - Enhanced version of CGI.pm's "remote\_addr()"
 ```perl
 use CGI;
 use CGI::remote_addr;
-...
-$cgi = CGI->new();
-$addr = $cgi->remote_addr();
+
+my $cgi  = CGI->new();
+my $addr = $cgi->remote_addr();
 ```
 
 # DESCRIPTION
